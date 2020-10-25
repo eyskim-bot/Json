@@ -1,40 +1,38 @@
 {
-    "patients": {
-        "ek": {
-            "firstName": "Eric",
-            "lastName": "Kim",
-            "birthday": "2000-01-01",
-            "city": "Vancouver",
-            "province": "British Columbia",
-            "vaccines": [
-                "Chickenpox (Varicella)",
-                "Diphtheria, Tetanus, Pertussis, Hepatitis B, Polio, and Haemophilus influenzae type b (DTaP-HB-IPV-Hib)",
-                "Diphtheria, Tetanus, Pertussis, Polio, Haemophilus influenzae Type b (DTaP-IPV-Hib)",
-                "Hepatitis A",
-                "Hepatitis B",
-                "Inactivated Influenza (Flu)",
-                "Measles, Mumps, Rubella (MMR)",
-                "Measles, Mumps, Rubella and Varicella (MMRV)",
-                "Meningococcal C Conjugate (Men-C)",
-                "Rotavirus (RotaTeq®)",
-                "Tetanus, Diphtheria, Pertussis, Polio (Tdap-IPV)",
-                "Human Papillomavirus (HPV)",
-                "Meningococcal Quadrivalent"
-            ]
-        },
-        "nd": {
-            "firstName": "Nathan",
-            "lastName": "Dyrkton",
-            "birthday": "2000-01-01",
-            "city": "Edmonton",
-            "province": "Alberta",
-            "shots": [
-                "Chickenpox (Varicella)",
-                "Diphtheria, Tetanus, Pertussis, Hepatitis B, Polio, and Haemophilus influenzae type b (DTaP-HB-IPV-Hib)",
-                "Diphtheria, Tetanus, Pertussis, Polio, Haemophilus influenzae Type b (DTaP-IPV-Hib)",
-                "Hepatitis A",
-                "Hepatitis B"
-            ]
-        }
+    "ek": {
+        "firstName": "Eric",
+        "lastName": "Kim",
+        "birthday": "2000-01-01",
+        "city": "Vancouver",
+        "province": "British Columbia",
+        "vaccines": [
+            "Chickenpox (Varicella)",
+            "Diphtheria, Tetanus, Pertussis, Hepatitis B, Polio, and Haemophilus influenzae type b (DTaP-HB-IPV-Hib)",
+            "Diphtheria, Tetanus, Pertussis, Polio, Haemophilus influenzae Type b (DTaP-IPV-Hib)",
+            "Hepatitis A",
+            "Hepatitis B",
+            "Inactivated Influenza (Flu)",
+            "Measles, Mumps, Rubella (MMR)",
+            "Measles, Mumps, Rubella and Varicella (MMRV)",
+            "Meningococcal C Conjugate (Men-C)",
+            "Rotavirus (RotaTeq®)",
+            "Tetanus, Diphtheria, Pertussis, Polio (Tdap-IPV)",
+            "Human Papillomavirus (HPV)",
+            "Meningococcal Quadrivalent"
+        ]
+    },
+    "nd": {
+        "firstName": "Nathan",
+        "lastName": "Dyrkton",
+        "birthday": "2000-01-01",
+        "city": "Edmonton",
+        "province": "Alberta",
+        "shots": [
+            "Chickenpox (Varicella)",
+            "Diphtheria, Tetanus, Pertussis, Hepatitis B, Polio, and Haemophilus influenzae type b (DTaP-HB-IPV-Hib)",
+            "Diphtheria, Tetanus, Pertussis, Polio, Haemophilus influenzae Type b (DTaP-IPV-Hib)",
+            "Hepatitis A",
+            "Hepatitis B"
+        ]
     }
 }
